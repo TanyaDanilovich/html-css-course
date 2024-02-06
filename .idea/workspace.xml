@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3c8f4b7-bb83-4ea9-962d-ec18f4d2d579" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/img/desert.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Card/Card.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/common/Theme.styled.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/Dokuments/it_incubator/html-css-course/src/assets/img",
+    "last_opened_file_path": "E:/Dokuments/it_incubator/html-css-course",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,11 +89,23 @@
       <updated>1706612613330</updated>
       <workItem from="1706612617145" duration="7604000" />
       <workItem from="1706872148280" duration="558000" />
-      <workItem from="1706875132009" duration="7929000" />
+      <workItem from="1706875132009" duration="8173000" />
+      <workItem from="1707231063515" duration="265000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
