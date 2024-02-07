@@ -6,9 +6,9 @@ const Navigation = () => {
     return (
         <nav>
             <Menu>
-                <MenuItem>Item 1</MenuItem>
-                <MenuItem>Item 2</MenuItem>
-                <MenuItem>Item 3</MenuItem>
+                <MenuItem><a href={"#"}>Item 1</a></MenuItem>
+                <MenuItem><a href={"#"}>Item 2</a></MenuItem>
+                <MenuItem><a href={"#"}>Item 3</a></MenuItem>
             </Menu>
         </nav>
     );
@@ -76,6 +76,11 @@ const Menu = styled.ul`
 const MenuItem = styled.li`
   color: white;
   font-weight: bold;
+  list-style: none;
+
+  a {
+    color: white;
+  }
 `;
 
 const LoginBtn = styled.button`
@@ -84,6 +89,7 @@ const LoginBtn = styled.button`
   padding: 10px 20px;
   border: 2px solid;
   border-radius: 5px;
+  background-color: transparent;
 `;
 
 const Block = styled.section`
